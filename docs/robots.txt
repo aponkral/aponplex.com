@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /vote/
+Disallow: /server/
+Disallow: /vote
+Disallow: /server
