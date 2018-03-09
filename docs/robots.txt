@@ -3,3 +3,5 @@ Disallow: /vote/
 Disallow: /server/
 Disallow: /vote
 Disallow: /server
+
+Sitemap: https://aponplex.com/sitemap.xml
